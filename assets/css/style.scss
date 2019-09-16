@@ -1,4 +1,6 @@
-@import "{{ jekyll.theme }}";
+---
+---
+@import "{{ site.theme }}";
 
 header {
   display: none;
